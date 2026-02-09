@@ -1,6 +1,6 @@
-# WDSA-TDA: Topological Data Analysis for Water Distribution System Resilience
+# TDA-Water: Topological data analysis for water distribution system resilience
 
-A Python package for analyzing water distribution network resilience using topological data analysis (TDA) methods, specifically simplicial complexes.
+A Python package for analysing water distribution network resilience using topological data analysis (TDA) methods, specifically simplicial complexes.
 
 ## Overview
 
