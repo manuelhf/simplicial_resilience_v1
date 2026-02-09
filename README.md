@@ -232,7 +232,7 @@ If you use this package in your research, please cite:
 ```bibtex
 @article{starovoit2026simplicial,
   title={Simplicial complexes for infrastructure resilience assessment in urban water distribution systems},
-  author={Starovoit, T and Herrera, M and Giudicianni, C and Creaco E},
+  author={Starovoit, T and Herrera, M and Giudicianni, C and Creaco, E},
   journal={TBC},
   year={2026}
 }
