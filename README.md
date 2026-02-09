@@ -230,11 +230,11 @@ Represents physical loops that don't contribute to hydraulic connectivity.
 If you use this package in your research, please cite:
 
 ```bibtex
-@article{wdsa_tda_2024,
-  title={Topological Resilience Analysis of Water Distribution Systems},
-  author={WDSA Research Team},
-  journal={Journal of Water Resources Planning and Management},
-  year={2024}
+@article{starovoit2026simplicial,
+  title={Simplicial complexes for infrastructure resilience assessment in urban water distribution systems},
+  author={Starovoit, T and Herrera, M and Giudicianni, C and Creaco E},
+  journal={TBC},
+  year={2026}
 }
 ```
 
